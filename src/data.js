@@ -114,5 +114,102 @@ export const classes = {
     locked: false,
     total: 28,
     starting: 13,
+  },
+  'chained-helmet': {
+     locked: false,
+     total: 30,
+     starting: 10,
+  },
+  'crescent-sun': {
+     locked: false,
+     total: 31,
+     starting: 11,
+  },
+  flask: {
+    locked: false,
+    total: 31,
+    starting: 11,
+  },
+  galaxy: {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  'ladder-axe': {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  leaf: {
+    locked: false,
+    total: 39,
+    starting: 19,
+  },
+  skull: {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  sprig: {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  target: {
+    locked: false,
+    total: 29,
+    starting: 9,
+  },
+  tusks: {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  vortex: {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  beetle: {
+    locked: false,
+    total: 31,
+    starting: 11,
+  },
+  'bleeding-claw': {
+    locked: false,
+    total: 31,
+    starting: 10,
+  },
+  tools: {
+    locked: false,
+    total: 29,
+    starting: 9,
+  },
+  gemstone: {
+    locked: false,
+    total: 31,
+    starting: 11,
+  },
+  'ice-meteor': {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  'lightning-ball': {
+    locked: false,
+    total: 30,
+    starting: 10,
+  },
+  'spiked-ring': {
+    locked: false,
+    total: 31,
+    starting: 11,
+  },
+  'three-eyes': {
+    locked: false,
+    total: 31,
+    starting 11,
   }
 }
+    
+
